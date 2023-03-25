@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttushar2622" alt="ttushar2622" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, React-Redux**
 
 - 👨‍💻 All of my projects are available at [ttushar2622.github.io](ttushar2622.github.io)
 
@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttushar2622&show_icons=true&locale=en" alt="ttushar2622" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttushar2622&" alt="ttushar2622" /></p>
-
-
