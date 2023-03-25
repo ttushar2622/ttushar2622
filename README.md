@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttushar2622" alt="ttushar2622" /></a> </p>
 
+- 🌱 I’m currently learning **React JS**
+
+- 👨‍💻 All of my projects are available at [ttushar2622.github.io](ttushar2622.github.io)
+
+- 💬 Ask me about **html, CSS, JavaScript, React JS, React-Redux, TypeScript, Cypress, Chakra UI, Jest, ,**
+
+- 📫 How to reach me **tthorat22@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15gcboPDN5H5OX6hO0-Mgm8sOlg7e4u6m/view?usp=sharing](https://drive.google.com/file/d/15gcboPDN5H5OX6hO0-Mgm8sOlg7e4u6m/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-thorat2622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-thorat2622" height="30" width="40" /></a>
@@ -18,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttushar2622&show_icons=true&locale=en" alt="ttushar2622" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttushar2622&" alt="ttushar2622" /></p>
+
 
