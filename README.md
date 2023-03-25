@@ -1,4 +1,3 @@
-<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ttushar2622&](https://tse2.mm.bing.net/th?id=OIP.19MdqDLzAqdYjyGwwJcX-QHaDt&pid=Api&P=0)" alt="ttushar2622" />
 <h1 align="center">Hi 👋, I'm Tushar Thorat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
