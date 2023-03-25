@@ -1,4 +1,4 @@
-<img style={width:"100%",height:"300px"} src="https://user-images.githubusercontent.com/1174461/30502219-25f712e2-9a1a-11e7-8e37-2e3e12d24866.jpg" alt="tushar"/>
+<img src="https://user-images.githubusercontent.com/1174461/30502219-25f712e2-9a1a-11e7-8e37-2e3e12d24866.jpg" alt="tushar"/>
 <h1 align="center">Hi 👋, I'm Tushar Thorat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
