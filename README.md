@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS, React-Redux**
 
-- 👨‍💻 All of my projects are available at [ttushar2622.github.io](ttushar2622.github.io)
+- 👨‍💻 All of my projects are available at [https://ttushar2622.github.io/](https://ttushar2622.github.io/)
 
 - 💬 Ask me about **html, CSS, JavaScript, React JS, React-Redux, TypeScript, Cypress, Chakra UI, Jest, ,**
 
